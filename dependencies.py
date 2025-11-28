@@ -6,3 +6,4 @@ google-generativeai==0.7.2
 numpy==1.24.3
 torch==2.1.0
 transformers==4.35.0
+sentence-transformers==3.0.1
